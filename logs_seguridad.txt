@@ -1,0 +1,25 @@
+[2026-05-05 22:29:41] [INFO] AuA!stats 
+[2026-05-14 23:01:46] [INFO] Mensaje recibido: Hay gente muriendo necesitamos a alguien tiene un infarto y hay varios muertos 
+[2026-05-14 23:02:16] [INFO] Mensaje recibido:  
+[2026-05-14 23:02:16] [INFO] Mensaje recibido: Hay gente muriendo necesitamos a alguien tiene un infarto y hay varios muertos 
+[2026-05-14 23:02:48] [INFO] Mensaje recibido: 22:58:28: Executing ':org.example.ClientKt.main()'. 
+[2026-05-14 23:02:48] [INFO] Mensaje recibido:  
+[2026-05-14 23:02:48] [INFO] Mensaje recibido: Starting Gradle Daemon... 
+[2026-05-14 23:02:48] [INFO] Mensaje recibido: Gradle Daemon started in 1 s 605 ms 
+[2026-05-14 23:02:48] [INFO] Mensaje recibido:  :checkKotlinGradlePluginConfigurationErrors 
+[2026-05-14 23:02:48] [INFO] Mensaje recibido:  :compileKotlin UP-TO-DATE 
+[2026-05-14 23:02:48] [INFO] Mensaje recibido:  :compileJava NO-SOURCE 
+[2026-05-14 23:02:48] [INFO] Mensaje recibido:  :processResources NO-SOURCE 
+[2026-05-14 23:02:48] [INFO] Mensaje recibido:  :classes UP-TO-DATE 
+[2026-05-14 23:02:48] [INFO] Mensaje recibido:  
+[2026-05-14 23:02:48] [INFO] Mensaje recibido:  :org.example.ClientKt.main() 
+[2026-05-14 23:02:48] [INFO] Mensaje recibido: Conectado al Sistema de Alerta. 
+[2026-05-14 23:02:48] [INFO] Mensaje recibido: Escribe tu mensaje o '!stats' para ver estad?sticas: 
+[2026-05-14 23:02:49] [INFO] Mensaje recibido: ALERTA BAJA detectada. Notificando... 
+[2026-05-14 23:02:49] [INFO] Mensaje recibido: ALERTA BAJA detectada. Notificando... 
+[2026-05-14 23:02:49] [INFO] Mensaje recibido: Hay gente muriendo necesitamos a alguien tiene un infarto y hay varios muertos 
+[2026-05-14 23:02:49] [INFO] Mensaje recibido: Mensaje recibido: Hay gente muriendo necesitamos a alguien tiene un infarto y hay varios muertos 
+[2026-05-14 23:02:49] [INFO] Mensaje recibido:  
+[2026-05-14 23:02:49] [INFO] Mensaje recibido: Hay gente muriendo necesitamos a alguien tiene un infarto y hay varios muertos 
+[2026-05-14 23:02:49] [INFO] Mensaje recibido: Mensaje recibido: 
+[2026-05-14 23:02:49] [INFO] Mensaje recibido: Mensaje recibido: Hay gente muriendo necesitamos a alguien tiene un infarto y hay varios muertos 
