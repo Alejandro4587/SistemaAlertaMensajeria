@@ -19,7 +19,7 @@
 
 **5. Telegram:** para recibir las notificaciones, entrar en [t.me/SistemaAlertaImportante_bot](https://t.me/SistemaAlertaImportante_bot) y pulsar START antes de ejecutar.
 
-## Lo que demuestra el proyecto
+## Puntos a tratar
 - **Hilos** — múltiples clientes simultáneos
 - **Corrutinas** — notificación a Telegram de forma asíncrona
 - **Sealed classes + when exhaustivo** — tipado de respuestas del servidor
